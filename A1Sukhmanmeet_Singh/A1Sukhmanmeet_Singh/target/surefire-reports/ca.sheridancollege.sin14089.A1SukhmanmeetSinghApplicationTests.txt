@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ca.sheridancollege.sin14089.A1SukhmanmeetSinghApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.37 s - in ca.sheridancollege.sin14089.A1SukhmanmeetSinghApplicationTests
